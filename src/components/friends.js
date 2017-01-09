@@ -1,7 +1,7 @@
 export default [
   {
     "name": "Preston McNeil",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/1117694_1614542_108355616_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "Houston",
       "state": "Texas",
@@ -18,7 +18,7 @@ export default [
   },
   {
     "name": "Ryan Rasmussen",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/211536_7938705_80713399_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "New York",
       "state": "New York",
@@ -35,7 +35,7 @@ export default [
   },
   {
     "name": "Terri Ruff",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/41368_8222994_4799_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "Sandy",
       "state": "Utah",
@@ -57,7 +57,7 @@ export default [
   },
   {
     "name": "Lindsey Mayer",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/173210_10024969_2137324550_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": null,
     "status": null,
     "friend_count": 870,
@@ -65,7 +65,7 @@ export default [
   },
   {
     "name": "Peter John Renslow",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/1085700_10051596_890338133_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "West Lafayette",
       "state": "Indiana",
@@ -87,7 +87,7 @@ export default [
   },
   {
     "name": "Craig Carroll",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/371702_10052664_1664842436_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "Tempe",
       "state": "Arizona",
@@ -104,7 +104,7 @@ export default [
   },
   {
     "name": "Jesse Morrison",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/623709_10053698_1875866361_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": null,
     "status": {
       "message": "I'm pretty excited at the prospect of having the option for cold water out of the faucet. Not just turning it all the way to the right and getting \"less hot\" water",
@@ -117,7 +117,7 @@ export default [
   },
   {
     "name": "Michelle Key",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/372639_10054231_314184666_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": null,
     "status": null,
     "friend_count": 928,
@@ -125,7 +125,7 @@ export default [
   },
   {
     "name": "Abe Itty",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/161103_10123983_1859311604_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": null,
     "status": null,
     "friend_count": 1427,
@@ -133,7 +133,7 @@ export default [
   },
   {
     "name": "Ken Peng",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/49592_10133832_1627020292_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "Tucson",
       "state": "Arizona",
@@ -150,7 +150,7 @@ export default [
   },
   {
     "name": "John Dohyung Kwon",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yo/r/UlIqmHJn-SK.gif",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": null,
     "status": null,
     "friend_count": 79,
@@ -158,7 +158,7 @@ export default [
   },
   {
     "name": "Dan Sullivan",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/273289_17800762_306073823_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "Cambridge",
       "state": "Massachusetts",
@@ -175,7 +175,7 @@ export default [
   },
   {
     "name": "Chad Bennett",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/372513_17802226_425948030_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": null,
     "status": null,
     "friend_count": 1885,
@@ -183,7 +183,7 @@ export default [
   },
   {
     "name": "Kirk Hill",
-    "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/41374_17802872_794_q.jpg",
+    "pic_square": "http://pic.funnygifsbox.com/uploads/2016/10/funnygifsbox.com_2016-10-18_17-24-25-1.gif",
     "current_location": {
       "city": "Pearland",
       "state": "Texas",
